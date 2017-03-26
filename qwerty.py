@@ -1,1 +1,1 @@
-print "qwerty"hgfyt
+print "qwerty"
